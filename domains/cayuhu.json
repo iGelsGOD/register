@@ -4,9 +4,8 @@
     "email": "gaijinteraa@gmail.com"
   },
   "records": {
-    "NS": [
-      "hugh.ns.cloudflare.com",
-      "fish.ns.cloudflare.com"
+    "A": [
+      "103.156.17.231"
     ]
   }
 }
