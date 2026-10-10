@@ -4,6 +4,10 @@
     "email": "gaijinteraa@gmail.com"
   },
   "records": {
-    "CNAME": "igelsgod.github.io"
+    "CNAME": "igelsgod.github.io",
+    "MX": [
+      "mx1.improvmx.com",
+      "mx2.improvmx.com"
+    ]
   }
 }
